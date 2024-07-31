@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🏭I'm currently working on a full-stack web application to bring local communities together<br>🐱‍👤 I'm looking to collaborate on opensource projects focused on communities in Tennessee<br>🥽 I'm currently learning TypeScript<br>🎣 I enjoy fishing, camping, playing video games, and spending time with my daughter<br>💣 I'm a US Army veteran<br>🏃‍♂️ A mechanical engineer turned software engineer after seeing the light<br>
+👨‍🏭I'm currently working on a full-stack web application to bring local communities together<br>🐱‍👤 I'm looking to collaborate on opensource projects focused on communities in Tennessee<br>🎣 I enjoy fishing, camping, playing video games, and spending time with my daughter<br>💣 I'm a US Army veteran<br>🏃‍♂️ A mechanical engineer turned software engineer after seeing the light<br>
 
 
 ## 🌐 Socials:
